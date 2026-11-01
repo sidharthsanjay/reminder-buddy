@@ -1,0 +1,38 @@
+[
+  {
+    "id": "droplet",
+    "name": "Droplet",
+    "tagline": "The cheerful buddy",
+    "greeting": "Hey {name}! 💧 Time for a water break?",
+    "moods": [
+      "idle",
+      "wave",
+      "happy",
+      "sad"
+    ]
+  },
+  {
+    "id": "me",
+    "name": "Me",
+    "tagline": "The real one",
+    "greeting": "Hey {name}! 💧 Time for a water break?",
+    "moods": [
+      "idle",
+      "wave",
+      "happy",
+      "sad"
+    ]
+  },
+  {
+    "id": "sprout",
+    "name": "Sprout",
+    "tagline": "The calm buddy",
+    "greeting": "Hi {name} 🌱 A quick sip of water?",
+    "moods": [
+      "idle",
+      "wave",
+      "happy",
+      "sad"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body,
+#app {
+  margin: 0;
+  height: 100%;
+}
+body {
+  font-family: "Segoe UI Variable", "Segoe UI", system-ui, -apple-system, sans-serif;
+  color: #1d2433;
+  background: #f1f4f9;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* The buddy window is frameless + transparent; nothing may paint a background. */
+html[data-view="buddy"],
+html[data-view="buddy"] body,
+html[data-view="buddy"] #app {
+  background: transparent !important;
+  overflow: hidden;
+}

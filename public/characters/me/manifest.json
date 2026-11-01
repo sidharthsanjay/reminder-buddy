@@ -1,0 +1,12 @@
+{
+  "id": "me",
+  "name": "Me",
+  "tagline": "The real one",
+  "greeting": "Hey {name}! 💧 Time for a water break?",
+  "moods": [
+    "idle",
+    "wave",
+    "happy",
+    "sad"
+  ]
+}

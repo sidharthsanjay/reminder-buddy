@@ -1,0 +1,12 @@
+{
+  "id": "droplet",
+  "name": "Droplet",
+  "tagline": "The cheerful buddy",
+  "greeting": "Hey {name}! 💧 Time for a water break?",
+  "moods": [
+    "idle",
+    "wave",
+    "happy",
+    "sad"
+  ]
+}
